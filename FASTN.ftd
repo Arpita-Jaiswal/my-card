@@ -1,11 +1,11 @@
 -- import: fastn
 
--- fastn.package: __user_name__.github.io/__repo_name__
-favicon: /-/__user_name__.github.io/__repo_name__/favicon.ico
+-- fastn.package: arpita-jaiswal.github.io/my-card
+favicon: /-/arpita-jaiswal.github.io/my-card/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/business-card
 
--- fastn.auto-import: __user_name__.github.io/__repo_name__/assets
+-- fastn.auto-import: arpita-jaiswal.github.io/my-card/assets
 
 
 -- fastn.sitemap:
